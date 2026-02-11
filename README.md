@@ -1,2 +1,0 @@
-# VendasSOS
-Página VendasSOS 
